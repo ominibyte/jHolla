@@ -1,8 +1,6 @@
 jHolla
 ======
 
-jHolla is currently hosted on SourceForge here: http://sourceforge.net/projects/jholla/
----------------------------------------------------------------------------------------
 
 A Skype-like, Outlook-like, or TeamViewer-like Notification box for Java
 
